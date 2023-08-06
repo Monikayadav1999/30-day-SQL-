@@ -1,5 +1,6 @@
 Question Link: https://leetcode.com/problems/combine-two-tables/?envType=list&envId=e97a9e5m
-
+Level : Easy
+      
 SELECT 
       P.lastName, 
       P.firstName, 
