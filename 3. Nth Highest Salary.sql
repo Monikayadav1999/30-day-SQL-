@@ -27,5 +27,4 @@ RETURN (
 );
 END
 
-
 # OFFSET is use to declare the no. of rows want to skip from the starting of the data before presenting result
