@@ -8,3 +8,4 @@ SELECT (
         LIMIT 1 OFFSET 1 ) AS SecondHighestSalary;
 
 # NTH_VALUE() is Window Ranking Function 
+# Topic Link : https://www.mysqltutorial.org/mysql-window-functions/mysql-nth_value-function/
